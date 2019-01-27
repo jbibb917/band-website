@@ -32,7 +32,11 @@ Another feature idea
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 ### JQuery
-The project uses JQuery to simplify DOM manipulation.
+
+Fit text http://fittextjs.com/ used for landing page 
+Tabulst http://vdw.github.io/Tabslet/ used for the gallery
+
+
 ## Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
