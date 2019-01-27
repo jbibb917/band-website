@@ -1,5 +1,7 @@
 # Band Website
 
+Git pages link: https://jbibb917.github.io/band-website/
+
 I wanted to create a simple, clean and user friendly site. There are two main reasons for this; the band are a 60's inspired group, this means the demographic are older, simplicity and user friendly design is key. Also, simplicity - or minimalism - lends it hands to the striking colour palette that the 60's lends itself to.
 
 ## UX
