@@ -35,6 +35,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 Fit text http://fittextjs.com/ used for landing page 
 Tabulst http://vdw.github.io/Tabslet/ used for the gallery
+http://iamceege.github.io/tooltipster/#demos used for idk yet
 
 
 ## Testing
