@@ -17,17 +17,18 @@ As a user type, I want to perform an action, so that I can achieve a goal.6
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 ### Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- Bootstrap Nav Bar
+
 
 ### Features Left to Implement
-Another feature idea
+
+- Angular JS routing design
+- Introduce some jquery libraries to spruce up the design
+- AJAX news source for recent rock news
+
 ## Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
@@ -36,6 +37,9 @@ In this section, you should mention all of the languages, frameworks, libraries,
 Fit text http://fittextjs.com/ used for landing page 
 Tabulst http://vdw.github.io/Tabslet/ used for the gallery
 http://iamceege.github.io/tooltipster/#demos used for idk yet
+
+### Angular JS
+This was used to help achieve the single pane design that was outlined in the UX. 
 
 
 ## Testing
